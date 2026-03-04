@@ -11,6 +11,10 @@ This repo shows a simple **ticket purchase** scenario and how different concurre
 - Concurrent queue + `.barrier`
 - Swift `actor`
 
-## Article
+## Read full article
+<img width="48" height="48"
+     style="border-radius:20%;"
+     alt="image"
+     src="https://github.com/user-attachments/assets/ba191861-b79f-4bb7-920e-a6830a312b07" />
 
-[Add your blog link here.](https://leandrohdez.substack.com/p/evitando-race-conditions-en-swift)
+[Read here](https://leandrohdez.substack.com/p/evitando-race-conditions-en-swift)
