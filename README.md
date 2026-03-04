@@ -12,6 +12,8 @@ This repo shows a simple **ticket purchase** scenario and how different concurre
 - Swift `actor`
 
 ## Read full article
+https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fconcurrency-swift-deepak-singh&ved=0CBYQjRxqFwoTCPC-s-eghpMDFQAAAAAdAAAAABAI&opi=89978449<img width="1250" height="720" alt="image" src="https://github.com/user-attachments/assets/52b90f95-ebba-4e7b-95ae-eb2d46592b7c" />
+
 <img width="48" height="48"
      style="border-radius:20%;"
      alt="image"
