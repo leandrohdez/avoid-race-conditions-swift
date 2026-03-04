@@ -13,7 +13,7 @@ This repo shows a simple **ticket purchase** scenario and how different concurre
 
 ## Read full article
 
-<img alt="image" src="https://github.com/user-attachments/assets/52b90f95-ebba-4e7b-95ae-eb2d46592b7c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/52b90f95-ebba-4e7b-95ae-eb2d46592b7c" />
 
 <img width="48" height="48"
      style="border-radius:20%;"
